@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>talks on Julia Kelson</title>
+    <link>/tags/talks/</link>
+    <description>Recent content in talks on Julia Kelson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jun 2019 12:30:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UW Earth &amp; Space Science Graduation</title>
+      <link>/post/uw_ess_graduation/</link>
+      <pubDate>Sat, 22 Jun 2019 12:30:00 +0000</pubDate>
+      
+      <guid>/post/uw_ess_graduation/</guid>
+      <description>&lt;p&gt;UW Earth and Space Sciences graduation really started off right - with a fire alarm! The alarm went off just when the chair, Ken Creager, was trying to get the ceremony started. Everyone evacuated, waited for the fire department to ascertain that there was not actually a fire, then we re-started the ceremony.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/grad.jpg&#34; alt=&#34;purple Harry Potter robes&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    purple Harry Potter robes
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;I had the honor of giving the Graduate Student speech. Writing the speech gave me the opportunity to reflect on my experience at UW. I highlighted that the inclusive and support community of scholars in ESS promotes scientific excellence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Graduate Student Perspective: Graduation Speech</title>
+      <link>/talk/graduation/</link>
+      <pubDate>Sat, 15 Jun 2019 15:00:00 +0100</pubDate>
+      
+      <guid>/talk/graduation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
