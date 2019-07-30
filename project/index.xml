@@ -12,16 +12,6 @@
     
     
     <item>
-      <title>Cenozoic greenhouse climates on land</title>
-      <link>/project/greenhouse/</link>
-      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/greenhouse/</guid>
-      <description>&lt;p&gt;I use preserved paleosols to learn about temperatures during greenhouse climates. This is cool and important because blah blah blah&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Developing the Methods of Clumped Isotope Geochemistry</title>
       <link>/project/clumpy_methods/</link>
       <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
@@ -34,20 +24,6 @@
 &lt;p&gt;Through these calcite precipitation experiments, myself and others at UW Isolab discovered that the choice of 17O correction parameters was introducing errors into the calculation of D47. These 17O correction parameters are required to calculate D47 when measured with mass spectrometry (i.e., in all labs making clumped isotope measurements). As a result of this effort, all clumped labs are now using a set of correction parameters recommended by IUPAC (presented in Brand et al., 2010), rather than the parameters from Santrock et al. (1985) that IsoDat (mass spec software) defaulted to. This work resulted in a paper in RCMS:  &lt;a href=&#34;https://doi.org/10.1002/rcm.7743&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1002/rcm.7743&lt;/a&gt;. It also provided the motivation for a large, multi-laboratory effort to recalculate previous ∆47-temperature empirical calibrations, spearheaded by Sierra Petersen: &lt;a href=&#34;https://doi.org/10.1029/2018GC008127&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1029/2018GC008127&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;These efforts have significantly improved our confidence in the temperatures we estimate from unknown samples. However, methods can always be improved - good isotope geochemistry requires constant vigilance!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Modern soil carbonates</title>
-      <link>/project/soil_carbonates/</link>
-      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/soil_carbonates/</guid>
-      <description>&lt;p&gt;How and when do modern soil carbonates form?&lt;/p&gt;
-
-&lt;p&gt;First, I re-analyzed and reviewed existing empirical data.&lt;/p&gt;
-
-&lt;p&gt;Now I am modeling soil carbonate formation.&lt;/p&gt;
 </description>
     </item>
     

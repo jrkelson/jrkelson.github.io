@@ -220,17 +220,7 @@
   </url>
   
   <url>
-    <loc>/project/greenhouse/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/clumpy_methods/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/soil_carbonates/</loc>
     <lastmod>2017-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -253,25 +243,7 @@
   </url>
   
   <url>
-    <loc>/tags/modeling/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/paleosols/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/project/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/soil-carbonate/</loc>
     <lastmod>2017-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
