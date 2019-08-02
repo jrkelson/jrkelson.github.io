@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>modeling on Julia Kelson</title>
+    <link>/tags/modeling/</link>
+    <description>Recent content in modeling on Julia Kelson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modern soil carbonates</title>
+      <link>/project/soil_carbonates/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/soil_carbonates/</guid>
+      <description>&lt;p&gt;My research addresses how and when soil carbonates form. This is necessary in order to use ancient soil carbonates for paleoclimate reconstructions. It is addresses how and where global inorganic carbon is stored.&lt;/p&gt;
+
+&lt;p&gt;It is commonly assumed that soil carbonates form in the warm (growing) season. This realistic assumption is because warm season is when plants are growing (and evapo-transpirating), the sun is shining, and the soil is drying out. All of those physical processes should promote supersaturation with respect to calcite.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/CarbForm.png&#34; alt=&#34;Yellow arrows indicate carbonate formation (nodules and pendants). Illustration help from Landon Burgener.&#34; width=&#34;500&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Yellow arrows indicate carbonate formation (nodules and pendants). Illustration help from Landon Burgener.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;But, soil carbonates can form in the winter, spring, summer, or fall as well. Environmental factors that control this timing include plant activity, persistent snowpack, soil texture, heavy summer rain, etc.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/CarbForm2.png&#34; alt=&#34;Environmental factors that can change the timing of carbonate formation.&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Environmental factors that can change the timing of carbonate formation.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;I am using a couple of different approaches to determine when soil carbonates form and how to interpret their isotopic composition. I have a review paper in review that examines empirical data from modern soil carbonates. I am also using a numerical model called HYDRUS-1D to predict the timing of carbonate formation.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/HYDRUS.jpg&#34; &gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
