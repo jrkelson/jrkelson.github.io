@@ -124,11 +124,36 @@
       <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/project/clumpy_methods/</guid>
-      <description>&lt;p&gt;The first measurements of ∆47 of CO2 gas evolved from carbonates were published in 2006 by Ghosh et al. While that was over a decade ago, the small size of the ∆47 signal makes its measurement a technical challenge. Development and refinement of the method is still ongoing.&lt;/p&gt;
+      <description>&lt;p&gt;The first measurements of ∆&lt;sub&gt;47&lt;/sub&gt; of CO&lt;sub&gt;2&lt;/sub&gt; gas evolved from carbonates were published in 2006 by Ghosh et al. While that was over a decade ago, the small size of the ∆&lt;sub&gt;47&lt;/sub&gt; signal has ensured that precise and accurate measurements are a challenge. Development and refinement of the method is still ongoing.&lt;/p&gt;
 
-&lt;p&gt;When I jumped into the field in 2014, the biggest challenge was disagreement amongst empirical calibrations of the ∆47-temperature relationship. I designed a series of calcite precipitation experiments to address the cause of the discrepancy amongst previously published calibrations. I thought this would be a small side project but it turned into a chapter of my PhD dissertation and a paper in GCA: &lt;a href=&#34;https://doi.org/10.1016/j.gca.2016.10.010&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.gca.2016.10.010&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Through these calcite precipitation experiments, myself and others at UW Isolab discovered that the choice of 17O correction parameters was introducing errors into the calculation of D47. These 17O correction parameters are required to calculate D47 when measured with mass spectrometry (i.e., in all labs making clumped isotope measurements). As a result of this effort, all clumped labs are now using a set of correction parameters recommended by IUPAC (presented in Brand et al., 2010), rather than the parameters from Santrock et al. (1985) that IsoDat (mass spec software) defaulted to. This work resulted in a paper in RCMS:  &lt;a href=&#34;https://doi.org/10.1002/rcm.7743&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1002/rcm.7743&lt;/a&gt;. It also provided the motivation for a large, multi-laboratory effort to recalculate previous ∆47-temperature empirical calibrations, spearheaded by Sierra Petersen: &lt;a href=&#34;https://doi.org/10.1029/2018GC008127&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1029/2018GC008127&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/source_cleaning.JPG&#34; alt=&#34;Very carefully putting the source back into the MAT 253&#34; width=&#34;400&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Very carefully putting the source back into the MAT 253
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;When I jumped into the field in 2014, the biggest challenge was disagreement amongst empirical calibrations of the ∆&lt;sub&gt;47&lt;/sub&gt;-temperature relationship. I designed a series of calcite precipitation experiments to address the cause of the discrepancy amongst previously published calibrations. I thought this would be a small side project but it turned into a chapter of my PhD dissertation and a paper in GCA: &lt;a href=&#34;https://doi.org/10.1016/j.gca.2016.10.010&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.gca.2016.10.010&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Through these calcite precipitation experiments, myself and others at UW Isolab discovered that the choice of &lt;sup&gt;17&lt;/sup&gt;O correction parameters was introducing errors into the calculation of ∆&lt;sub&gt;47&lt;/sub&gt;. These &lt;sup&gt;17&lt;/sup&gt;O correction parameters are required to calculate ∆&lt;sub&gt;47&lt;/sub&gt; when measured with mass spectrometry (i.e., in all labs making clumped isotope measurements). As a result of this effort, all clumped labs are now using a set of correction parameters recommended by IUPAC (presented in Brand et al., 2010), rather than the parameters from Santrock et al. (1985) that IsoDat (mass spec software) defaulted to. This work resulted in a paper in RCMS:  &lt;a href=&#34;https://doi.org/10.1002/rcm.7743&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1002/rcm.7743&lt;/a&gt;. It also provided the motivation for a large, multi-laboratory effort to recalculate previous ∆&lt;sub&gt;47&lt;/sub&gt;-temperature empirical calibrations, spearheaded by Sierra Petersen: &lt;a href=&#34;https://doi.org/10.1029/2018GC008127&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1029/2018GC008127&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;These efforts have significantly improved our confidence in the temperatures we estimate from unknown samples. However, methods can always be improved - good isotope geochemistry requires constant vigilance!&lt;/p&gt;
 </description>
