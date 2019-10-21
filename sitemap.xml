@@ -281,6 +281,22 @@
   </url>
   
   <url>
+    <loc>/outreach/isolab/</loc>
+    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/isolab/</loc>
+    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outreach/</loc>
+    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/primer/</loc>
     <lastmod>2017-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -288,6 +304,12 @@
   
   <url>
     <loc>/tags/methods/</loc>
+    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/outreach/</loc>
     <lastmod>2017-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
