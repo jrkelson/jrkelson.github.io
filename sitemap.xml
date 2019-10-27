@@ -281,12 +281,12 @@
   </url>
   
   <url>
-    <loc>/outreach/isolab/</loc>
+    <loc>/outreach/mentoring/</loc>
     <lastmod>2017-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/isolab/</loc>
+    <loc>/outreach/isolab/</loc>
     <lastmod>2017-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -298,6 +298,12 @@
   
   <url>
     <loc>/primer/</loc>
+    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mentoring/</loc>
     <lastmod>2017-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
