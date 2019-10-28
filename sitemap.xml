@@ -254,6 +254,29 @@
   </url>
   
   <url>
+    <loc>/outreach/mentoring/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outreach/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mentoring/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/outreach/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/project/sed_fingerprinting_or/</loc>
     <lastmod>2017-07-31T00:00:00+00:00</lastmod>
   </url>
@@ -281,19 +304,8 @@
   </url>
   
   <url>
-    <loc>/outreach/mentoring/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/outreach/isolab/</loc>
     <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/outreach/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -303,19 +315,7 @@
   </url>
   
   <url>
-    <loc>/tags/mentoring/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/methods/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/outreach/</loc>
     <lastmod>2017-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
