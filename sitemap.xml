@@ -19,94 +19,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/kelson_etal_2020/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/do-breecker/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/gd-hoke/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/jr-kelson/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/kw-huntington/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/lk-burgener/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sv-petersen/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/tm-gallagher/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/clumped-isotopes/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/soil-carbonates/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/post/arrived_mi/</loc>
     <lastmod>2019-09-01T12:30:00+00:00</lastmod>
   </url>
@@ -114,6 +26,12 @@
   <url>
     <loc>/post/summer_travels/</loc>
     <lastmod>2019-06-22T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-06-22T12:30:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -150,7 +68,19 @@
   </url>
   
   <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/21-others/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
     <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -173,7 +103,36 @@
   </url>
   
   <url>
+    <loc>/authors/jr-kelson/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kw-huntington/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/m.-daeron/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sv-petersen/</loc>
     <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -191,6 +150,12 @@
   </url>
   
   <url>
+    <loc>/tags/clumped-isotopes/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/methods-development/</loc>
     <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -202,6 +167,12 @@
   </url>
   
   <url>
+    <loc>/tags/soil-carbonates/</loc>
+    <lastmod>2019-05-17T12:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/e-hyland/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -209,6 +180,12 @@
   
   <url>
     <loc>/authors/jo-sewall/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lk-burgener/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
