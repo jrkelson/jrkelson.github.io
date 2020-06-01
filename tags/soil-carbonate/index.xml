@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>soil carbonate on Julia Kelson</title>
+    <link>/tags/soil-carbonate/</link>
+    <description>Recent content in soil carbonate on Julia Kelson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/soil-carbonate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Goldschmidt 2020 - Virtual presentation</title>
+      <link>/project/goldschmidt_2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/goldschmidt_2020/</guid>
+      <description>
+
+&lt;p&gt;&lt;span style = &#34;color:royalblue&#34;&gt;
+&lt;font size = &#34;6&#34;&gt;
+&lt;a href=&#34;https://goldschmidt.info/2020/abstracts/abstractView?id=2020003403&#34; target=&#34;_blank&#34;&gt;Fingerprinting Soil Water Evaporation with Triple Oxygen Isotopes of Pedogenic Carbonates&lt;/a&gt;
+&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style = &#34;color:gray&#34;&gt;
+ &lt;font size=&#34;4&#34;&gt;Julia Kelson, Tyler Huth, Naomi Levin, and Ben Passey &lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style = &#34;color:gray&#34;&gt;
+Session 14d: Geochemical indicators of paste climate and environmental change
+Chat @ Monday June 22, 20:06-20:09 (EDT)
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;#intro&#34;&gt;Intro&lt;/a&gt;     |     &lt;a href=&#34;#results&#34;&gt;Triple Oxygen Isotope Results&lt;/a&gt;     |     &lt;a href=&#34;#model&#34;&gt;Bonus modeling&lt;/a&gt;
+|    &lt;a href=&#34;#conclusions&#34;&gt;Implications for Paleo &amp;amp; Future work&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name = &#34;intro&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Motivation:&lt;/strong&gt; Soil (pedogenic) carbonates are an important archive of terrestrial paleoclimate. In particular, their oxygen isotope composition ($\delta$&lt;sup&gt;18&lt;/sup&gt;O) is used to reconstruct the $\delta$&lt;sup&gt;18&lt;/sup&gt;O of ancient meteoric waters.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The problem:&lt;/strong&gt; To what extent is the $\delta$&lt;sup&gt;18&lt;/sup&gt;O of soil water (and resulting soil carbonate) modified by evaporation? If soil carbonates form during evaporative dewatering, it is likely that their parent water $\delta$&lt;sup&gt;18&lt;/sup&gt;O is modified by evaporation. If unrecognized, this could lead to erroneously high estimates of $\delta$&lt;sup&gt;18&lt;/sup&gt;O of ancient precipitation.  On the other hand, if soil carbonates form as a result of rootwater uptake and/or respiration-induced changes in soil CO&lt;sub&gt;2&lt;/sub&gt;, the parent water $\delta$&lt;sup&gt;18&lt;/sup&gt;O might be a faithful recorder of $\delta$&lt;sup&gt;18&lt;/sup&gt;O of meteoric waters.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What we are doing:&lt;/strong&gt; We are measuring the triple oxygen isotope composition of modern soil carbonates from various environments. Evaporation will cause a deviation from the expected relationship between $\delta$&lt;sup&gt;17&lt;/sup&gt;O and $\delta$&lt;sup&gt;18&lt;/sup&gt;O in water and resulting carbonate (&lt;a href=&#34;#Figure1&#34;&gt;Figure 1&lt;/a&gt;) (Landais et al., 2006; Luz and Barkan, 2010; Passey et al., 2014; Gázquez et al., 2018; Surma et al., 2018; Passey and Levin, in review). Thus the ∆’&lt;sup&gt;17&lt;/sup&gt;O composition of soil carbonates should indicate the extent to which their parent soil waters were evaporated (&lt;a href=&#34;https://jrkelson.github.io/primer/tripleoprimer/&#34; target=&#34;_blank&#34;&gt;Primer on Triple Oxygen Isotopes here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a name = &#34;Figure1&#34;&gt;&lt;/a&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/Goldschmidt/17O_excess4.png&#34; alt=&#34;**Figure 1:** Schematic of relationship between  $\delta$&amp;#39;&amp;lt;sup&amp;gt;18&amp;lt;/sup&amp;gt;O and  $\delta$&amp;#39;&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O (left panel) and $\delta$&amp;#39;&amp;lt;sup&amp;gt;18&amp;lt;/sup&amp;gt;O and ∆&amp;#39;&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O (right panel). ∆&amp;#39;&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O is insensitive to the $\delta$&amp;#39;&amp;lt;sup&amp;gt;18&amp;lt;/sup&amp;gt;O of the carbonate parent water. Evaporated waters will have low ∆&amp;#39;&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O values relative to their parent waters.&#34; width=&#34;700&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    &lt;strong&gt;Figure 1:&lt;/strong&gt; Schematic of relationship between  $\delta$&amp;rsquo;&lt;sup&gt;18&lt;/sup&gt;O and  $\delta$&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O (left panel) and $\delta$&amp;rsquo;&lt;sup&gt;18&lt;/sup&gt;O and ∆&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O (right panel). ∆&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O is insensitive to the $\delta$&amp;rsquo;&lt;sup&gt;18&lt;/sup&gt;O of the carbonate parent water. Evaporated waters will have low ∆&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O values relative to their parent waters.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a name = &#34;results&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;triple-oxygen-isotope-results&#34;&gt;Triple Oxygen Isotope Results&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Preliminary results:&lt;/strong&gt; Soil carbonate ∆’&lt;sup&gt;17&lt;/sup&gt;O ranges from approximately -170 to -110 per meg, which corresponds with parent waters that range from -35 to + 25 per meg (&lt;a href=&#34;#Methods&#34;&gt;Methods below&lt;/a&gt;) (&lt;a href=&#34;#Figure2&#34;&gt;Figure 2&lt;/a&gt;). These values are generally lower than unevaporated meteoric waters (i.e., rain and rivers), and at the lowest, resemble evaporated meteoric waters (i.e., closed basin lakes). Thus far, a complicated relationship between aridity and ∆’&lt;sup&gt;17&lt;/sup&gt;O of soil carbonates is emerging. We speculate that there might be the hint of some kind of “threshold aridity.” Below such a threshold aridity (more arid) we observe a spread in ∆’&lt;sup&gt;17&lt;/sup&gt;O. Above such a threshold (less arid) we observe relatively high ∆’&lt;sup&gt;17&lt;/sup&gt;O  values of soil waters (less evaporation).  This pattern might indicate that soil carbonates form during evaporation in the most arid environments (AI&amp;lt; 0.2). In semi-arid to humid environments (AI &amp;gt; 0.2), soil carbonate forms via other processes and/or soil waters are regularly recharged with non-evaporated waters. In such an environment, $\delta$&lt;sup&gt;18&lt;/sup&gt;O of soil carbonates might be more reliable recorders of rainfall $\delta$&lt;sup&gt;18&lt;/sup&gt;O.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name = &#34;Figure2&#34;&gt;&lt;/a&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/Goldschmidt/WaterCompilation_inskcapeedited.png&#34; alt=&#34;**Figure 2:** Reconstructed soil water ∆’&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O (black dots) and ∆’&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O of meteoric waters (Aron et al., Chem Geo, in prep) (colored dots). Reconstructed soil water ∆’&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O values are low compared to most meteoric waters; we interpret this pattern as indicating that many soil waters overprinted by some amount of evaporation.&#34; width=&#34;700&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    &lt;strong&gt;Figure 2:&lt;/strong&gt; Reconstructed soil water ∆’&lt;sup&gt;17&lt;/sup&gt;O (black dots) and ∆’&lt;sup&gt;17&lt;/sup&gt;O of meteoric waters (Aron et al., Chem Geo, in prep) (colored dots). Reconstructed soil water ∆’&lt;sup&gt;17&lt;/sup&gt;O values are low compared to most meteoric waters; we interpret this pattern as indicating that many soil waters overprinted by some amount of evaporation.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a name = &#34;Figure3&#34;&gt;&lt;/a&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/Goldschmidt/AIplot_inkscapeedited.png&#34; alt=&#34;**Figure 3:** Calculated ∆’&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O of soil waters reconstructed from soil carbonates. Aridity index is calculated as the mean annual precipitation (MAP) divided by potential evapotranspiration (PET) using WorldClim data (Beverly et al., in prep; Fick and Hijmans 2017). The black outline indicates data that is newly presented in this work (measurements made at the University of Michigan). The data from Texas, USA are from Ji (2016); all other data are from Passey et al. (2014). &#34; width=&#34;700&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    &lt;strong&gt;Figure 3:&lt;/strong&gt; Calculated ∆’&lt;sup&gt;17&lt;/sup&gt;O of soil waters reconstructed from soil carbonates. Aridity index is calculated as the mean annual precipitation (MAP) divided by potential evapotranspiration (PET) using WorldClim data (Beverly et al., in prep; Fick and Hijmans 2017). The black outline indicates data that is newly presented in this work (measurements made at the University of Michigan). The data from Texas, USA are from Ji (2016); all other data are from Passey et al. (2014).
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a name = &#34;model&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;bonus-modeling-of-triple-oxygen-isotopes-in-a-soil-profile&#34;&gt;Bonus: Modeling of Triple Oxygen Isotopes in a Soil Profile&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Evaporation only&lt;/strong&gt;: We’ve started to model ∆’&lt;sup&gt;17&lt;/sup&gt;O in a soil profile using the TOUGHREACT numerical simulation program. Below, we have plotted monthly time steps for a 1-D soil profile undergoing one year of evaporation (&lt;a href=&#34;#Figure4&#34;&gt;Figure 4&lt;/a&gt;). The model is isothermal, atmospheric relative humidity is set to 40 %, and the model does not incorporate transpiration. The year of evaporation results in an enormous ∆’&lt;sup&gt;17&lt;/sup&gt;O-soil water excursion – up to -100 per meg lower than starting ∆’&lt;sup&gt;17&lt;/sup&gt;O (0 per meg) [see also the similar theoretical profile of Barnes and Allison (1983)]. Because a year of uninterrupted evaporation would only occur in the driest locations on earth (e.g., the non-vegetated Atacama Desert), this scenario shows the maximum potential effect of evaporation on ∆’&lt;sup&gt;17&lt;/sup&gt;O-soil water and therefore ∆’&lt;sup&gt;17&lt;/sup&gt;O-soil carbonate.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name = &#34;Figure4&#34;&gt;&lt;/a&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/Goldschmidt/evapOnly_1yr.png&#34; alt=&#34;**Figure 4:** Modeling D’17O of a soil profile. One year of evaporation (isothermal soil profile). &#34; width=&#34;700&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    &lt;strong&gt;Figure 4:&lt;/strong&gt; Modeling D’17O of a soil profile. One year of evaporation (isothermal soil profile).
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A little more realistic:&lt;/strong&gt; To give a sense of the range of ∆’&lt;sup&gt;17&lt;/sup&gt;O-soil water in a more realistic scenario, we modeled the Adam’s Ranch Soil Climate Analysis Network site in central New Mexico, a semi-arid environment (mean annual precipitation of 230 mm/yr) where soil carbonate readily forms. As above, we modeled an isothermal, non-vegetated system (soil temperature = 15 °C, atmospheric relative humidity = 44 %). &lt;a href=&#34;#Figure5&#34;&gt;Figure 5&lt;/a&gt; below shows the evolution of soil water ∆’&lt;sup&gt;17&lt;/sup&gt;O after the largest rain event on record (initial value of +35 per meg) from 2011–2015, ending just before the next rain event (Figure 5). The results suggest that ∆’&lt;sup&gt;17&lt;/sup&gt;O excursions of up to 20-25 per meg are possible from evaporation alone, although after most rain events ∆’&lt;sup&gt;17&lt;/sup&gt;O-soil water only changes by 10-15 per meg before the next infiltration event.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name = &#34;Figure5&#34;&gt;&lt;/a&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/Goldschmidt/AdamsRanch_day984_1019_v2.png&#34; alt=&#34;**Figure 5:** Time steps of ∆’&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O-soil water after the September 10, 2013 rain event at Adam’s Ranch, New Mexico. The ∆’&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O of soil water resets to the rainfall value (&amp;#43;35 per meg) after a storm, then evolves to lower ∆’&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O with drying; the plot stops at 35 days, just before the next rain event. Soil profile is held at 15 °C, atmosphere at 12.5 °C. &#34; width=&#34;800&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    &lt;strong&gt;Figure 5:&lt;/strong&gt; Time steps of ∆’&lt;sup&gt;17&lt;/sup&gt;O-soil water after the September 10, 2013 rain event at Adam’s Ranch, New Mexico. The ∆’&lt;sup&gt;17&lt;/sup&gt;O of soil water resets to the rainfall value (+35 per meg) after a storm, then evolves to lower ∆’&lt;sup&gt;17&lt;/sup&gt;O with drying; the plot stops at 35 days, just before the next rain event. Soil profile is held at 15 °C, atmosphere at 12.5 °C.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a name = &#34;conclusions&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Implications for paleoclimate reconstructions:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;∆&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O of soil carbonates can identify if parent soil waters have been evaporated. This will help workers evaluate the fidelity of their $\delta$&lt;sup&gt;18&lt;/sup&gt;O record.&lt;/li&gt;
+&lt;li&gt;∆&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O promises to shed light on soil carbonate formation processes, with implications on how to interpret other stable isotope data from this widely used material&lt;/li&gt;
+&lt;li&gt;Preliminary data suggests that ∆&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O of soil carbonates relates to local aridity. More data will be required to establish this measurement as a true proxy for aridity.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Future work:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Firstly, we need to finish the replicate analyses that were aborted when the University of Michigan shut down to slow the spread of Sars-Cov-2.&lt;/li&gt;
+&lt;li&gt;We’re also interested in &lt;a href=&#34;#samples&#34;&gt;adding&lt;/a&gt; to our soil carbonate collection.&lt;/li&gt;
+&lt;li&gt;We plan to explore other environmental factors (i.e., external constraints on timing of carbonate formation, seasonality of precipitation, vegetation type, etc.) that might also explain the ∆’&lt;sup&gt;17&lt;/sup&gt;O variation that we observe.&lt;/li&gt;
+&lt;li&gt;Observations of local meteoric water ∆&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O would give context to our reconstructed soil water values.&lt;/li&gt;
+&lt;li&gt;We are just starting numerical modeling of ∆&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O of soil waters (link to bonus figures below)&lt;/li&gt;
+&lt;li&gt;Future, future work: measurements of ∆&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O of soil water made through a seasonal cycle would be very useful.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a name = &#34;samples&#34;&gt;&lt;/a&gt;
+&lt;strong&gt;Do you have samples to contribute?&lt;/strong&gt; We are still expanding our collection of soil carbonate samples to include in this study. We are most interested in soil carbonate samples that already have some kind of environmental or isotope context (i.e., stable and/or clumped isotope data, water isotope data, vegetation information, etc.). If you have samples from anywhere in the world that you’d like to share with us, please get in touch!&lt;/p&gt;
+
+&lt;p&gt;&lt;a name = &#34;Methods&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;stable-isotope-methods&#34;&gt;Stable isotope methods:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Triple oxygen isotope measurements are being made at the IsoPaleoLab at the University of Michigan. We are using the acid digestion/reduction/fluorination method described in Passey et al. (2014). Multiple analyses of VSMOW2 and SLAP2 are performed during each analytical session and form the basis for normalization to the VSMOW-SLAP reference frame (Schoenemann et al., 2013).  International carbonate standards (NBS-18, NBS-19, IAEA 603) are analyzed along with unknowns, and an internal carbonate standard (102-GC-AZ01) is used to correct for systematic drift in ∆’&lt;sup&gt;17&lt;/sup&gt;O that is observe in some analytical sessions. The data shown in this presentation were during in two analytical sessions (as established by CoF&lt;sub&gt;3&lt;/sub&gt; reactors number 13 and 14 at IPL). These sessions spanned from December 2019 to March 2020.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Where shown, ∆’&lt;sup&gt;17&lt;/sup&gt;O of soil waters is reconstructed from the soil carbonates using the ∆’&lt;sup&gt;17&lt;/sup&gt;O of soil carbonate, an estimate of growth temperature from clumped isotopes (∆&lt;sub&gt;47&lt;/sub&gt;) and a combined mineral-water and acid fractionation factor of $\theta$ = 0.5242 (Passey et al., 2014).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Error bars in ∆’&lt;sup&gt;17&lt;/sup&gt;O are 1 standard error, which is calculated by dividing the standard deviation of 0.018 (long-term SD of an internal carbonate standard, 102-GC-AZ01) by the square root of the number of replicate analyses.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;Aron, P.G., Levin, N.E., Beverly, E.J., Huth, T.E., Passey, B.H., Pelletier, E.M., Poulsen, C.J., Winkelstern, I.Z., Yarian, D.A. (in prep). Global variations of triple oxygen isotopes in meteoric waters. Chemical Geology, to be submitted by June 30, 2020.&lt;/p&gt;
+
+&lt;p&gt;Barnes C. J., and Allison G. B. (1983). The distribution of Deuterium and 18O in dry soils: 1. Theory. Journal of Hydrology, 60, 141–156.
+Fick, S. E., and Hijmans, R. J. (2017). WorldClim 2: new 1-km spatial resolution climate surfaces for global land areas. Int. J. of Climatol. 37, 4302–4315.&lt;/p&gt;
+
+&lt;p&gt;Gázquez, F., Evans, N. P., Herwartz, D., Bauska, T. K., Morellon, M., Surma, J., &amp;hellip; &amp;amp; Hodell, D. A. (2016, December). Triple Oxygen and Deuterium Isotopes in Gypsum Hydration Water for Quantitative Paleo-humidity Reconstructions. In AGU Fall Meeting Abstracts.&lt;/p&gt;
+
+&lt;p&gt;Ji, H. (2016). Triple oxygen isotopes in lake waters, lacustrine carbonates and soil carbonates: An indicator for evaporation (Doctoral dissertation, Johns Hopkins University).&lt;/p&gt;
+
+&lt;p&gt;Landais, A., Barkan, E., Yakir, D., &amp;amp; Luz, B. (2006). The triple isotopic composition of oxygen in leaf water. Geochimica et Cosmochimica Acta, 70(16), 4105-4115.&lt;/p&gt;
+
+&lt;p&gt;Luz, B., &amp;amp; Barkan, E. (2010). Variations of 17O/16O and 18O/16O in meteoric waters. Geochimica et Cosmochimica Acta, 74(22), 6276-6286.&lt;/p&gt;
+
+&lt;p&gt;Passey, B. H., Hu, H., Ji, H., Montanari, S., Li, S., Henkes, G. A., &amp;amp; Levin, N. E. (2014). Triple oxygen isotopes in biogenic and sedimentary carbonates. Geochimica et Cosmochimica Acta, 141, 1-25.&lt;/p&gt;
+
+&lt;p&gt;Passey, B.H.  and Levin, N.E. (in review) Triple oxygen isotgopes in carbonates, biological apatites, and continental paleoclimate reconstruction.  Reviews in Mineralogy and Geochemistry.&lt;/p&gt;
+
+&lt;p&gt;Schoenemann, S. W., Schauer, A. J., &amp;amp; Steig, E. J. (2013). Measurement of SLAP2 and GISP δ17O and proposed VSMOW‐SLAP normalization for δ17O and 17Oexcess. Rapid Communications in Mass Spectrometry, 27(5), 582-590.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modern soil carbonates</title>
+      <link>/project/soil_carbonates/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/soil_carbonates/</guid>
+      <description>&lt;p&gt;I am researching how and when soil carbonates form. This research is necessary in order to use ancient soil carbonates for paleoclimate reconstructions. This research also helps understand how and where inorganic carbon is stored, which has implications for understanding the global carbon cycle.&lt;/p&gt;
+
+&lt;p&gt;It is commonly assumed that soil carbonates form in the warm season. This assumption is reasonable because the warm season is when plants are growing (and evapo-transpirating), the sun is shining, and the soil is drying out. All of those physical processes should promote supersaturation with respect to calcite.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/CarbForm.png&#34; alt=&#34;Yellow arrows indicate carbonate formation (nodules and pendants). Illustration help from Landon Burgener.&#34; width=&#34;500&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Yellow arrows indicate carbonate formation (nodules and pendants). Illustration help from Landon Burgener.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;But, soil carbonates can form in the winter, spring, summer, or fall as well. Environmental factors that control this timing include plant activity, persistent snowpack, soil texture, heavy summer rain, etc.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/CarbForm2.png&#34; alt=&#34;Environmental factors that can change the timing of carbonate formation.&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Environmental factors that can change the timing of carbonate formation.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;I am using a couple of different approaches to determine when soil carbonates form and how to interpret their isotopic composition.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.quascirev.2020.106259&#34; target=&#34;_blank&#34;&gt;This paper reviews clumped isotope data on soil carbonates. &lt;/a&gt; The take home: soil carbonate formation temperatures are all over the place! A warm-season bias is the most common, but formation temperatures deviate widely from mean annual air temperatures. We aren&amp;rsquo;t able to explain this variation in formation temperatures easily with environmental data and existing hypotheses.&lt;/p&gt;
+
+&lt;p&gt;Next, I am using a numerical model called HYDRUS-1D to predict the timing of carbonate formation. This work will allow us to delve into individual processes that are impossible to disentangle with empirical data.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/HYDRUS.jpg&#34; &gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

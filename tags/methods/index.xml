@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>methods on Julia Kelson</title>
+    <link>/tags/methods/</link>
+    <description>Recent content in methods on Julia Kelson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/methods/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Triple Oxygen Isotopes</title>
+      <link>/primer/tripleoprimer/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/primer/tripleoprimer/</guid>
+      <description>&lt;p&gt;A dummie&amp;rsquo;s guide to triple oxygen isotopes in carbonate.&lt;/p&gt;
+
+&lt;p&gt;Oxygen has one major isotope, &lt;sup&gt;16&lt;/sup&gt;O, and two minor isotopes, &lt;sup&gt;17&lt;/sup&gt;O and &lt;sup&gt;18&lt;/sup&gt;O. A measurement of the abundance of &lt;sup&gt;18&lt;/sup&gt;O is widely used in geochemistry ($\delta$&lt;sup&gt;18&lt;/sup&gt;O) as a tracer for hydrologic processes.  It was long assumed that stuyding &lt;sup&gt;17&lt;/sup&gt;O would not yield additional useful information because its abundance would be about half that of &lt;sup&gt;18&lt;/sup&gt;O, following a relationship that is predicted by mass-dependent (equilibrium) fractionation ($\theta$ = 0.529 for equilibrium fractionation, Luz and Barkan 2010):&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/TripleOprimer/path235.png&#34; alt=&#34;Figure 1: Predicted relationship between $\delta$&amp;#39;&amp;lt;sup&amp;gt;18&amp;lt;/sup&amp;gt;O and $\delta$&amp;#39;&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O given mass-dependent fractionation. $\theta$&amp;lt;sub&amp;gt;a-b&amp;lt;/sub&amp;gt;  = ln(&amp;lt;sup&amp;gt;17/16&amp;lt;/sup&amp;gt; $\alpha$&amp;lt;sub&amp;gt;a-b&amp;lt;/sub&amp;gt;)/ln(&amp;lt;sup&amp;gt;18/16&amp;lt;/sup&amp;gt; $\alpha$&amp;lt;sub&amp;gt;a-b&amp;lt;/sub&amp;gt;), where $\alpha$&amp;lt;sub&amp;gt;a-b&amp;lt;/sub&amp;gt; is the fractionation factor between two phases (like calcite-water) &#34; width=&#34;300&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Figure 1: Predicted relationship between $\delta$&amp;rsquo;&lt;sup&gt;18&lt;/sup&gt;O and $\delta$&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O given mass-dependent fractionation. $\theta$&lt;sub&gt;a-b&lt;/sub&gt;  = ln(&lt;sup&gt;&lt;sup&gt;17&lt;/sup&gt;&amp;frasl;&lt;sub&gt;16&lt;/sub&gt;&lt;/sup&gt; $\alpha$&lt;sub&gt;a-b&lt;/sub&gt;)/ln(&lt;sup&gt;&lt;sup&gt;18&lt;/sup&gt;&amp;frasl;&lt;sub&gt;16&lt;/sub&gt;&lt;/sup&gt; $\alpha$&lt;sub&gt;a-b&lt;/sub&gt;), where $\alpha$&lt;sub&gt;a-b&lt;/sub&gt; is the fractionation factor between two phases (like calcite-water)
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;Note that the axes of Figure 1 use “delta-prime” notation, a slight variation on the more familiar delta notation. This notation is used to remove the slight curvature in the relationship between $\delta$&lt;sup&gt;18&lt;/sup&gt;O and $\delta$&lt;sup&gt;17&lt;/sup&gt;O (Miller, 2002):&lt;/p&gt;
+
+&lt;p&gt;$\delta$’x = ln($\delta$x+1)&lt;/p&gt;
+
+&lt;p&gt;$\delta$&lt;sup&gt;17&lt;/sup&gt;O can deviate from this relationship if non-mass dependent fractionation occurs (i.e., $\theta$ ≠ 0.529).  Evaporation is an example of one such non-mass-dependent fractionation process and carries $\theta$ = 0.5185 (Barkan and Luz, 2007). Yes, this deviation is small, but with sufficiently high precision instruments it can be measured. This deviation, called ∆’17O, (analogous to the familiar d-excess), and is defined as:&lt;/p&gt;
+
+&lt;p&gt;$\Delta$’&lt;sup&gt;17&lt;/sup&gt;O = $\delta$&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O – $\lambda$ * $\delta$&amp;rsquo;&lt;sup&gt;18&lt;/sup&gt;O&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/TripleOprimer/path236.png&#34; alt=&#34;Figure 2: Schematic of $\Delta$&amp;#39;&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O&#34; width=&#34;300&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Figure 2: Schematic of $\Delta$&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;Note that I&amp;rsquo;ve used $\lambda$ = 0.528, which is the empirically observed relationship in meteoric waters (Luz and Barkan 2010). The $\lambda$ notation expresses that it is an empirical relationship, as opposed to theoretically derived $\theta$ used above. ∆’&lt;sup&gt;17&lt;/sup&gt;O is expressed in permille (with values that ranges from +0.10 to -0.2), or in per meg (with values that range from +100 to -200).&lt;/p&gt;
+
+&lt;p&gt;Thus, $\Delta$’&lt;sup&gt;17&lt;/sup&gt;O can be used to identify evaporation of parent waters and carbonate minerals. Measuring $\Delta$’&lt;sup&gt;17&lt;/sup&gt;O promises to be useful in terrestrial hydroclimate where d18O alone can be ambiguous.  Let’s consider the water bottle of Seattle tap water (d18O = -10 ‰) that I accidentally brought with me when I moved to in Michigan last fall.  If I let this water bottle sit with a lid off, it would evaporate and eventually reach a $\delta$&lt;sup&gt;18&lt;/sup&gt;O= -6 ‰.  At that point, it would be impossible to distinguish my imported Seattle water from that of local Ann Arbor tap water using $\delta$&lt;sup&gt;18&lt;/sup&gt;O analyses. $\Delta$’&lt;sup&gt;17&lt;/sup&gt;O could be used to readily identify which water was evaporated; the Seattle water would have a $\Delta$’&lt;sup&gt;17&lt;/sup&gt;O value that is about 0.10 ‰ lower than that of the Michigan water (evaporation experiments in Li et al., 2017).&lt;/p&gt;
+
+&lt;p&gt;$\Delta$’&lt;sup&gt;17&lt;/sup&gt;O has the potential to be useful in addition to the more familiar d-excess for two reasons. The first is the fractionation in oxygen isotopes is not very sensitive to temperature (i.e., (Angert et al., 2004). The second is that carbonate minerals are widely preserved in the geologic record, where it is difficult to find co-occurring preservation of hydrogen and oxygen that is necessary to calculate d-excess. Furthermore, the growth temperature can be directly measured from the same carbonate mineral (using clumps), allowing for a simultaneous estimate of environmental temperature and hydrologic processes.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/TripleOprimer/rect7101.png&#34; alt=&#34;Figure 3: Schematic of $\Delta$&amp;#39;&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O vs $\delta$&amp;#39;&amp;lt;sup&amp;gt;18&amp;lt;/sup&amp;gt;O in waters&#34; width=&#34;300&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Figure 3: Schematic of $\Delta$&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O vs $\delta$&amp;rsquo;&lt;sup&gt;18&lt;/sup&gt;O in waters
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;In studies of paleo-hydroclimate, we could use $\Delta$’&lt;sup&gt;17&lt;/sup&gt;O to parse out if changes in d18O were due to Rayleigh distillation (i.e., rainout over a mountain range) or due to evaporation. Other processes that cause kinetic fractionation could also be investigated (i.e., speleothems, as predicted in Guo et al., 2019).  Note that $\Delta$’&lt;sup&gt;17&lt;/sup&gt;O should be independent of the starting $\delta$&lt;sup&gt;18&lt;/sup&gt;O composition. It might even be possible to use the $\Delta$’&lt;sup&gt;17&lt;/sup&gt;O of carbonates to reconstruct the $\delta$&lt;sup&gt;18&lt;/sup&gt;O of primary meteoric waters (i.e., lake carbonates in Passey and Ji, 2019).&lt;/p&gt;
+
+&lt;p&gt;Measuring $\Delta$’&lt;sup&gt;17&lt;/sup&gt;O in carbonate materials posed a technical challenge to isotope geochemists. Usually the isotopic composition of a carbonate mineral is determined by first digesting the CaCO&lt;sub&gt;3&lt;/sub&gt; in phosphoric acid, then measuring the isotope abundances in the evolved CO&lt;sub&gt;2&lt;/sub&gt; gas. However, &lt;sup&gt;13&lt;/sup&gt;C-&lt;sup&gt;16&lt;/sup&gt;O-&lt;sup&gt;16&lt;/sup&gt;O interferes with the measurement of &lt;sup&gt;12&lt;/sup&gt;C-&lt;sup&gt;17&lt;/sup&gt;O-&lt;sup&gt;16&lt;/sup&gt;O. So, CO&lt;sub&gt;2&lt;/sub&gt; gas evolved from solid  CaCO&lt;sub&gt;3&lt;/sub&gt; needs to be converted to O&lt;sub&gt;2&lt;/sub&gt; for measurement. Passey et al. (2014) describe the acid digestion, reduction, and fluorination method which is currently in place at the University of Michigan.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Carbonate Clumped isotopes</title>
+      <link>/primer/clumpy/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/primer/clumpy/</guid>
+      <description>
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/CO2molecule.png&#34; alt=&#34;a clumpy CO&amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt; molecule&#34; width=&#34;300&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    a clumpy CO&lt;sub&gt;2&lt;/sub&gt; molecule
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;The term ‘clumped isotopes’ refers to the co-existence of two rare, heavy isotopes in a single molecule, or - get ready for a mouthful – a ‘doubly substituted isotopologue’. In the CO&lt;sub&gt;2&lt;/sub&gt; molecule above, there are heavy isotopes (&lt;sup&gt;18&lt;/sup&gt;O and &lt;sup&gt;13&lt;/sup&gt;C) bonded together. (FYI, their common/light counterparts are &lt;sup&gt;12&lt;/sup&gt;C and &lt;sup&gt;16&lt;/sup&gt;O). This makes for a molecule with an atomic mass of 47, hence the common ∆&lt;sub&gt;47&lt;/sub&gt; notation for &amp;lsquo;clumped isotopes&amp;rsquo;. Conveniently for paleoclimatologist, the rare/heavy isotopes preferentially clump at lower temperatures.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/TD47cartoon.png&#34; width=&#34;300&#34; &gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;But how does this work? Let&amp;rsquo;s imagine a balloon full of CO&lt;sub&gt;2&lt;/sub&gt; gas with a fixed number of light and heavy isotopes each. In a balloon held at 1000 °C, the system is chaotic. Bonds are vibrating and wiggling and nothing really settles down. In this high-temperature system, the heavy and light isotopes end up being randomly distributed amongst the molecules.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/hotballoon.png&#34; alt=&#34;Only one clumpy molecule in the hot balloon. Heavy isotopes are dark colors, light isotopes are light colors.&#34; width=&#34;300&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Only one clumpy molecule in the hot balloon. Heavy isotopes are dark colors, light isotopes are light colors.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;In a balloon held at lower temperatures (&amp;lt;1000 °C), the system can reach a more energetically favorable state. Clumping heavy isotopes together is favorable because it slightly reduces the vibrational energy and increases bond strength. So more clumps will occur at lower temperatures.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/coldballoon.png&#34; alt=&#34;Three clumpy molecules in the cold balloon. Note same number of heavy isotopes.&#34; width=&#34;300&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Three clumpy molecules in the cold balloon. Note same number of heavy isotopes.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;Thus, clumped isotope geochemistry is not concerned with the total number of heavy isotopes in a system, but rather how those heavy isotopes are arranged within the molecules. We do need to know the number of heavy isotopes in the system, though, so we can calculate how many clumps we would expect if they were randomly arranged vs. how many we actually have measured. Then, we can estimate the temperature at which that CO&lt;sub&gt;2&lt;/sub&gt; molecule formed!&lt;/p&gt;
+
+&lt;p&gt;Usually, what is measured is the clumpiness of CO&lt;sub&gt;2&lt;/sub&gt; gas that we get by digesting a carbonate mineral in acid. Common targets are soil carbonates and shells. With a little bit more work (see other projects), we can use the clumpiness we measure to estimate temperatures at or near the surface of the Earth millions of years ago. This thermometer is not based on biology nor does it depend on the isotopic composition of the water from which the mineral grew. That makes for a powerful, quantitative thermometer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Developing the Methods of Clumped Isotope Geochemistry</title>
+      <link>/project/clumpy_methods/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/clumpy_methods/</guid>
+      <description>&lt;p&gt;The first measurements of ∆&lt;sub&gt;47&lt;/sub&gt; of CO&lt;sub&gt;2&lt;/sub&gt; gas evolved from carbonates were published in 2006 by Ghosh et al. While that was over a decade ago, the small size of the ∆&lt;sub&gt;47&lt;/sub&gt; signal has ensured that precise and accurate measurements are a challenge. Development and refinement of the method is still ongoing.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/source_cleaning.JPG&#34; alt=&#34;Very carefully putting the source back into the MAT 253&#34; width=&#34;400&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Very carefully putting the source back into the MAT 253
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;When I jumped into the field in 2014, the biggest challenge was disagreement amongst empirical calibrations of the ∆&lt;sub&gt;47&lt;/sub&gt;-temperature relationship. I designed a series of calcite precipitation experiments to address the cause of the discrepancy amongst previously published calibrations. I thought this would be a small side project but it turned into a chapter of my PhD dissertation and a paper in GCA: &lt;a href=&#34;https://doi.org/10.1016/j.gca.2016.10.010&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.gca.2016.10.010&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Through these calcite precipitation experiments, myself and others at UW Isolab discovered that the choice of &lt;sup&gt;17&lt;/sup&gt;O correction parameters was introducing errors into the calculation of ∆&lt;sub&gt;47&lt;/sub&gt;. These &lt;sup&gt;17&lt;/sup&gt;O correction parameters are required to calculate ∆&lt;sub&gt;47&lt;/sub&gt; when measured with mass spectrometry (i.e., in all labs making clumped isotope measurements). As a result of this effort, all clumped labs are now using a set of correction parameters recommended by IUPAC (presented in Brand et al., 2010), rather than the parameters from Santrock et al. (1985) that IsoDat (mass spec software) defaulted to. This work resulted in a paper in RCMS:  &lt;a href=&#34;https://doi.org/10.1002/rcm.7743&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1002/rcm.7743&lt;/a&gt;. It also provided the motivation for a large, multi-laboratory effort to recalculate previous ∆&lt;sub&gt;47&lt;/sub&gt;-temperature empirical calibrations, spearheaded by Sierra Petersen: &lt;a href=&#34;https://doi.org/10.1029/2018GC008127&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1029/2018GC008127&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;These efforts have significantly improved our confidence in the temperatures we estimate from unknown samples. However, methods can always be improved - good isotope geochemistry requires constant vigilance!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

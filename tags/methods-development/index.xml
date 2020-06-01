@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>methods development on Julia Kelson</title>
+    <link>/tags/methods-development/</link>
+    <description>Recent content in methods development on Julia Kelson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/methods-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effects of Improved 17O Correction on Interlaboratory Agreement in Clumped Isotope Calibrations, Estimates of Mineral‐Specific Offsets, and Temperature Dependence of Acid Digestion Fractionation</title>
+      <link>/publication/petersen_etal_2019/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/petersen_etal_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a universal carbonate clumped isotope calibration: Diverse synthesis and preparatory methods suggest a single temperature relationship</title>
+      <link>/publication/kelson_etal_2017/</link>
+      <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kelson_etal_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choice of 17O correction affects clumped isotope (∆47) values of CO2 measured with mass spectrometry</title>
+      <link>/publication/schauer_etal_2016/</link>
+      <pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/schauer_etal_2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

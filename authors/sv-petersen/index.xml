@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SV Petersen on Julia Kelson</title>
+    <link>/authors/sv-petersen/</link>
+    <description>Recent content in SV Petersen on Julia Kelson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/sv-petersen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A proxy for all seasons? A synthesis of clumped isotope data from Holocene soil carbonates </title>
+      <link>/publication/kelson_etal_2020/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kelson_etal_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Improved 17O Correction on Interlaboratory Agreement in Clumped Isotope Calibrations, Estimates of Mineral‐Specific Offsets, and Temperature Dependence of Acid Digestion Fractionation</title>
+      <link>/publication/petersen_etal_2019/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/petersen_etal_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

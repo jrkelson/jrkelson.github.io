@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paleosols on Julia Kelson</title>
+    <link>/tags/paleosols/</link>
+    <description>Recent content in paleosols on Julia Kelson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/paleosols/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modern soil carbonates</title>
+      <link>/project/soil_carbonates/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/soil_carbonates/</guid>
+      <description>&lt;p&gt;I am researching how and when soil carbonates form. This research is necessary in order to use ancient soil carbonates for paleoclimate reconstructions. This research also helps understand how and where inorganic carbon is stored, which has implications for understanding the global carbon cycle.&lt;/p&gt;
+
+&lt;p&gt;It is commonly assumed that soil carbonates form in the warm season. This assumption is reasonable because the warm season is when plants are growing (and evapo-transpirating), the sun is shining, and the soil is drying out. All of those physical processes should promote supersaturation with respect to calcite.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/CarbForm.png&#34; alt=&#34;Yellow arrows indicate carbonate formation (nodules and pendants). Illustration help from Landon Burgener.&#34; width=&#34;500&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Yellow arrows indicate carbonate formation (nodules and pendants). Illustration help from Landon Burgener.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;But, soil carbonates can form in the winter, spring, summer, or fall as well. Environmental factors that control this timing include plant activity, persistent snowpack, soil texture, heavy summer rain, etc.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/CarbForm2.png&#34; alt=&#34;Environmental factors that can change the timing of carbonate formation.&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Environmental factors that can change the timing of carbonate formation.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;I am using a couple of different approaches to determine when soil carbonates form and how to interpret their isotopic composition.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.quascirev.2020.106259&#34; target=&#34;_blank&#34;&gt;This paper reviews clumped isotope data on soil carbonates. &lt;/a&gt; The take home: soil carbonate formation temperatures are all over the place! A warm-season bias is the most common, but formation temperatures deviate widely from mean annual air temperatures. We aren&amp;rsquo;t able to explain this variation in formation temperatures easily with environmental data and existing hypotheses.&lt;/p&gt;
+
+&lt;p&gt;Next, I am using a numerical model called HYDRUS-1D to predict the timing of carbonate formation. This work will allow us to delve into individual processes that are impossible to disentangle with empirical data.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/HYDRUS.jpg&#34; &gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Greenhouse climates of the Cenozoic</title>
+      <link>/project/greenhouse/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/greenhouse/</guid>
+      <description>
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/Globe.png&#34; alt=&#34;Reptile and palm fossils at the poles indicate warm climates.&#34; width=&#34;300&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Reptile and palm fossils at the poles indicate warm climates.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;The late Cretaceous though the early Eocene is an intriguing period of Earth history because of the geologic evidence for globally warm climates that corresponds with high concentrations of CO&lt;sub&gt;2&lt;/sub&gt; in the atmosphere. Studying these high CO&lt;sub&gt;2&lt;/sub&gt; climates can  potentially illuminate what high-CO&lt;sub&gt;2&lt;/sub&gt; climates will be like in the future. However, a couple of basic questions about these so-called greenhouse climate regimes drive the paleoclimate research.&lt;/p&gt;
+
+&lt;p&gt;A first, seemingly simple, question is: how hot was it really? One way to quantify earth surface temperatures is by using the clumped isotope composition of soil carbonates that formed during that time period. I used a seres of stacked paleosols from Big Bend National Park, Texas, USA to estimate air temperatures in the subtropics (30 °N).&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/SamplingBigYellow.jpg&#34; alt=&#34;Sampling the Hannold Hill Formation in the heat.&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Sampling the Hannold Hill Formation in the heat.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;My temperature estimates were intriguingly cold - I estimate summer temperatures of 32 °C, which is not that different from modern summer temperatures in the same place. Either I am interpreting the seasonal bias of my proxy incorrectly &lt;a href=&#34;https://jrkelson.github.io/project/soil_carbonates&#34; target=&#34;_blank&#34;&gt;(see other projects)&lt;/a&gt;, &lt;em&gt;or&lt;/em&gt;   the subtropics were surprisingly cool. &lt;a href=&#34;https://doi.org/10.1029/2018PA003391&#34; target=&#34;_blank&#34;&gt;Publication here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Another aspect of this project is to determine if greenhouse climates were seasonally equable or not. To answer this, I helped my colleague Landon Burgener in his efforts to compare temperature estimates from a myriad of proxies that likely record different seasonal temperatures. We looked at Cretaceous paleosol deposits in Utah and Montana. &lt;a href=&#34;https://doi.org/10.1016/j.palaeo.2018.12.004&#34; target=&#34;_blank&#34;&gt;Publication here.&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/Utah.jpg&#34; alt=&#34;Field work in the Kaiparowits Formation, Utah.&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Field work in the Kaiparowits Formation, Utah.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;I&amp;rsquo;m actively working on a late Paleocene to early Eocene record from the Goler Formation in California. This is another near coastal section that fortunately has a variety of carbonates to work with - including oyster shells.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
