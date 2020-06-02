@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Goldschmidt 2020 - Virtual presentation</title>
+      <title>Goldschmidt 2020 - Virtual Presentation</title>
       <link>/project/goldschmidt_2020/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -25,8 +25,10 @@
 &lt;/font&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style = &#34;color:gray&#34;&gt;
- &lt;font size=&#34;4&#34;&gt;Julia Kelson, Tyler Huth, Naomi Levin, and Ben Passey
-Earth and Environmental Sciences, University of Michigan, Ann Arbor MI &lt;/font&gt;&lt;/p&gt;
+ &lt;font size=&#34;4&#34;&gt;Julia Kelson, Tyler Huth, Naomi Levin, and Ben Passey&lt;/p&gt;
+
+&lt;p&gt;&lt;span style = &#34;color:gray&#34;&gt;
+Earth and Environmental Sciences, University of Michigan, Ann Arbor MI &lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style = &#34;color:gray&#34;&gt;
 Session 14d: Geochemical indicators of paste climate and environmental change
@@ -34,7 +36,7 @@ Chat @ Monday June 22, 20:06-20:09 (EDT)
 &lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;#intro&#34;&gt;Intro&lt;/a&gt;     |     &lt;a href=&#34;#results&#34;&gt;Triple Oxygen Isotope Results&lt;/a&gt;     |     &lt;a href=&#34;#model&#34;&gt;Bonus modeling&lt;/a&gt;
-|    &lt;a href=&#34;#conclusions&#34;&gt;Implications for Paleo &amp;amp; Future work&lt;/a&gt;&lt;/p&gt;
+|    &lt;a href=&#34;#conclusions&#34;&gt;Implications for Paleo &amp;amp; Future work&lt;/a&gt;      | &lt;a href=&#34;#Methods&#34;&gt;Detailed Methods&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a name = &#34;intro&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -74,7 +76,7 @@ Chat @ Monday June 22, 20:06-20:09 (EDT)
 
 &lt;h2 id=&#34;a-name-results-a-triple-oxygen-isotope-results&#34;&gt;&lt;a name = &#34;results&#34;&gt;&lt;/a&gt; Triple Oxygen Isotope Results&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Preliminary results:&lt;/strong&gt; Soil carbonate ∆’&lt;sup&gt;17&lt;/sup&gt;O ranges from approximately -170 to -110 per meg, which corresponds with parent waters that range from -35 to + 25 per meg (&lt;a href=&#34;#Methods&#34;&gt;Methods below&lt;/a&gt;) (&lt;a href=&#34;#Figure2&#34;&gt;Figure 2&lt;/a&gt;). These values are generally lower than unevaporated meteoric waters (i.e., rain and rivers), and at the lowest, resemble evaporated meteoric waters (i.e., closed basin lakes). Thus far, a complicated relationship between aridity and ∆’&lt;sup&gt;17&lt;/sup&gt;O of soil carbonates is emerging. We speculate that there might be the hint of some kind of “threshold aridity.” Below such a threshold aridity (more arid) we observe a spread in ∆’&lt;sup&gt;17&lt;/sup&gt;O. Above such a threshold (less arid) we observe relatively high ∆’&lt;sup&gt;17&lt;/sup&gt;O  values of soil waters (less evaporation).  This pattern might indicate that soil carbonates form during evaporation in the most arid environments (AI&amp;lt; 0.2). In semi-arid to humid environments (AI &amp;gt; 0.2), soil carbonate forms via other processes and/or soil waters are regularly recharged with non-evaporated waters. In such an environment, $\delta$&lt;sup&gt;18&lt;/sup&gt;O of soil carbonates might be more reliable recorders of rainfall $\delta$&lt;sup&gt;18&lt;/sup&gt;O.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preliminary results:&lt;/strong&gt; Soil carbonate ∆’&lt;sup&gt;17&lt;/sup&gt;O ranges from approximately -170 to -110 per meg, which corresponds with parent waters that range from -35 to + 25 per meg (&lt;a href=&#34;#Methods&#34;&gt;Methods below&lt;/a&gt;) (&lt;a href=&#34;#Figure2&#34;&gt;Figure 2&lt;/a&gt;). These values are generally lower than unevaporated meteoric waters (i.e., rain and rivers), and at the lowest, resemble evaporated meteoric waters (i.e., closed basin lakes). Thus far, a complicated relationship between aridity and ∆’&lt;sup&gt;17&lt;/sup&gt;O of soil carbonates is emerging. We speculate that there might be the hint of some kind of “threshold aridity.” Below such a threshold aridity (more arid) we observe a spread in ∆’&lt;sup&gt;17&lt;/sup&gt;O. Above such a threshold (less arid) we observe relatively high ∆’&lt;sup&gt;17&lt;/sup&gt;O  values of soil waters (less evaporation).  This pattern might indicate that soil carbonates form during evaporation in the most arid environments (aridity index, AI, &amp;lt; 0.2). In semi-arid to humid environments (AI &amp;gt; 0.2), soil carbonate forms via other processes and/or soil waters are regularly recharged with non-evaporated waters. In such an environment, $\delta$&lt;sup&gt;18&lt;/sup&gt;O of soil carbonates might be more reliable recorders of rainfall $\delta$&lt;sup&gt;18&lt;/sup&gt;O.&lt;/p&gt;
 
 &lt;p&gt;&lt;a name = &#34;Figure2&#34;&gt;&lt;/a&gt;
 
@@ -85,7 +87,7 @@ Chat @ Monday June 22, 20:06-20:09 (EDT)
 
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/Goldschmidt/WaterCompilation_inskcapeedited.png&#34; alt=&#34;**Figure 2:** Reconstructed soil water ∆’&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O (black dots) and ∆’&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O of meteoric waters (Aron et al., Chem Geo, in prep) (colored dots). Reconstructed soil water ∆’&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O values are low compared to most meteoric waters; we interpret this pattern as indicating that many soil waters overprinted by some amount of evaporation.&#34; width=&#34;700&#34; &gt;
+&lt;img src=&#34;/img/Goldschmidt/WaterCompilation_blues.png&#34; alt=&#34;**Figure 2:** Reconstructed soil water ∆’&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O (black dots) and ∆’&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O of meteoric waters (Aron et al., Chem Geo, in prep) (colored dots). Reconstructed soil water ∆’&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O values are low compared to most meteoric waters; we interpret this pattern as indicating that many soil waters overprinted by some amount of evaporation.&#34; width=&#34;700&#34; &gt;
 
 
 
@@ -111,14 +113,14 @@ Chat @ Monday June 22, 20:06-20:09 (EDT)
 
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/Goldschmidt/AIplot_inkscapeedited.png&#34; alt=&#34;**Figure 3:** Calculated ∆’&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O of soil waters reconstructed from soil carbonates. Aridity index is calculated as the mean annual precipitation (MAP) divided by potential evapotranspiration (PET) using WorldClim data (Beverly et al., in prep; Fick and Hijmans 2017). The black outline indicates data that is newly presented in this work (measurements made at the University of Michigan). The data from Texas, USA are from Ji (2016); all other data are from Passey et al. (2014). &#34; width=&#34;700&#34; &gt;
+&lt;img src=&#34;/img/Goldschmidt/AIplot_newcolors.png&#34; alt=&#34;**Figure 3:** Calculated ∆’&amp;lt;sup&amp;gt;17&amp;lt;/sup&amp;gt;O of soil waters reconstructed from soil carbonates. Aridity index (AI) is calculated as the mean annual precipitation (MAP) divided by potential evapotranspiration (PET) using WorldClim data (Beverly et al., 2019; Fick and Hijmans 2017). The black outline indicates data that is newly presented in this work (measurements made at the University of Michigan). The data from Texas, USA are from Ji (2016); all other data are from Passey et al. (2014). &#34; width=&#34;700&#34; &gt;
 
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
   &lt;p&gt;
-    &lt;strong&gt;Figure 3:&lt;/strong&gt; Calculated ∆’&lt;sup&gt;17&lt;/sup&gt;O of soil waters reconstructed from soil carbonates. Aridity index is calculated as the mean annual precipitation (MAP) divided by potential evapotranspiration (PET) using WorldClim data (Beverly et al., in prep; Fick and Hijmans 2017). The black outline indicates data that is newly presented in this work (measurements made at the University of Michigan). The data from Texas, USA are from Ji (2016); all other data are from Passey et al. (2014).
+    &lt;strong&gt;Figure 3:&lt;/strong&gt; Calculated ∆’&lt;sup&gt;17&lt;/sup&gt;O of soil waters reconstructed from soil carbonates. Aridity index (AI) is calculated as the mean annual precipitation (MAP) divided by potential evapotranspiration (PET) using WorldClim data (Beverly et al., 2019; Fick and Hijmans 2017). The black outline indicates data that is newly presented in this work (measurements made at the University of Michigan). The data from Texas, USA are from Ji (2016); all other data are from Passey et al. (2014).
     
     
     
@@ -160,7 +162,7 @@ Chat @ Monday June 22, 20:06-20:09 (EDT)
 &lt;/figure&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;A little more realistic:&lt;/strong&gt; To give a sense of the range of ∆’&lt;sup&gt;17&lt;/sup&gt;O-soil water in a more realistic scenario, we modeled the Adam’s Ranch Soil Climate Analysis Network site in central New Mexico, a semi-arid environment (mean annual precipitation of 230 mm/yr) where soil carbonate readily forms. As above, we modeled an isothermal, non-vegetated system (soil temperature = 15 °C, atmospheric relative humidity = 44 %). &lt;a href=&#34;#Figure5&#34;&gt;Figure 5&lt;/a&gt; below shows the evolution of soil water ∆’&lt;sup&gt;17&lt;/sup&gt;O after the largest rain event on record (initial value of +35 per meg) from 2011–2015, ending just before the next rain event (Figure 5). The results suggest that ∆’&lt;sup&gt;17&lt;/sup&gt;O excursions of up to 20-25 per meg are possible from evaporation alone, although after most rain events ∆’&lt;sup&gt;17&lt;/sup&gt;O-soil water only changes by 10-15 per meg before the next infiltration event.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A little more realistic:&lt;/strong&gt; To give a sense of the range of ∆’&lt;sup&gt;17&lt;/sup&gt;O-soil water in a more realistic scenario, we modeled the Adams Ranch Soil Climate Analysis Network site in central New Mexico, a semi-arid environment (mean annual precipitation of 230 mm/yr) where soil carbonate readily forms. As above, we modeled an isothermal, non-vegetated system (soil temperature = 15 °C, atmospheric relative humidity = 44 %). &lt;a href=&#34;#Figure5&#34;&gt;Figure 5&lt;/a&gt; below shows the evolution of soil water ∆’&lt;sup&gt;17&lt;/sup&gt;O after the largest rain event on record (initial value of +35 per meg) from 2011–2015, ending just before the next rain event (Figure 5). The results suggest that ∆’&lt;sup&gt;17&lt;/sup&gt;O excursions of up to 20-25 per meg are possible from evaporation alone, although after most rain events ∆’&lt;sup&gt;17&lt;/sup&gt;O-soil water only changes by 10-15 per meg before the next infiltration event.&lt;/p&gt;
 
 &lt;p&gt;&lt;a name = &#34;Figure5&#34;&gt;&lt;/a&gt;
 
@@ -196,7 +198,7 @@ Chat @ Monday June 22, 20:06-20:09 (EDT)
 
 &lt;ul&gt;
 &lt;li&gt;∆&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O of soil carbonates can identify if parent soil waters have been evaporated. This will help workers evaluate the fidelity of their record for reconstructing $\delta$&lt;sup&gt;18&lt;/sup&gt;O  of meteoric waters.&lt;/li&gt;
-&lt;li&gt;∆&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O promises to shed light on soil carbonate formation processes, with implications on how to interpret other stable isotope data from this widely used material&lt;/li&gt;
+&lt;li&gt;∆&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O promises to shed light on soil carbonate formation processes, with implications on how to interpret other stable isotope data from this widely used material.&lt;/li&gt;
 &lt;li&gt;Preliminary data suggests that ∆&amp;rsquo;&lt;sup&gt;17&lt;/sup&gt;O of soil carbonates relates to local aridity. More data will be required to establish this measurement as a true proxy for aridity.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -216,7 +218,9 @@ Chat @ Monday June 22, 20:06-20:09 (EDT)
 
 &lt;p&gt;&lt;strong&gt;Acknowledgements&lt;/strong&gt;
 This material is based upon work supported by the National Science Foundation under Award No. 1854873 to JRK.
-We&amp;rsquo;d like to thank Greg Hoke, Alexis Licht and Paolo Ballato for providing soil carbonate samples from Argentina, Myanmar, and Iran.&lt;/p&gt;
+We&amp;rsquo;d like to thank Greg Hoke, Alexis Licht and Paolo Ballato for providing soil carbonate samples from Argentina, Myanmar, and Iran.
+Drake Yarian provided analytical assistance, usually with a good sound track.
+TOUGHREACT and Tyler Huth&amp;rsquo;s training was funded through NSF grant EAR 1325214 to Thure Cerling and Diego Fernandez at the University of Utah.&lt;/p&gt;
 
 &lt;p&gt;&lt;a name = &#34;Methods&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -225,11 +229,11 @@ We&amp;rsquo;d like to thank Greg Hoke, Alexis Licht and Paolo Ballato for provi
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Triple oxygen isotope measurements are being made at the IsoPaleoLab at the University of Michigan. We are using the acid digestion/reduction/fluorination method described in Passey et al. (2014). Multiple analyses of VSMOW2 and SLAP2 are performed during each analytical session and form the basis for normalization to the VSMOW-SLAP reference frame (Schoenemann et al., 2013).  International carbonate standards (NBS-18, NBS-19, IAEA 603) are analyzed along with unknowns, and an internal carbonate standard (102-GC-AZ01) is used to correct for systematic drift in ∆’&lt;sup&gt;17&lt;/sup&gt;O that is observed in some analytical sessions. The data shown in this presentation were analyzed in two analytical sessions (as established by CoF&lt;sub&gt;3&lt;/sub&gt; reactors number 13 and 14 at IPL). These sessions spanned from December 2019 to March 2020.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Where shown, ∆’&lt;sup&gt;17&lt;/sup&gt;O of soil waters is reconstructed from the soil carbonates using the ∆’&lt;sup&gt;17&lt;/sup&gt;O of soil carbonate, an estimate of growth temperature from clumped isotopes (∆&lt;sub&gt;47&lt;/sub&gt;) and a combined mineral-water and acid fractionation factor of $\theta$&lt;sub&gt;a-c-w&lt;/sub&gt; = 0.5242 (Passey et al., 2014). The &lt;sup&gt;18&lt;/sup&gt;$\alpha$&lt;sub&gt;c-w&lt;/sub&gt; is calculated using the equation from Kim and O&amp;rsquo;Neil (1997) and multiplied by an acid fractionation factor of 1.0081 for acid digestion of calcite at 90 °C (Kim et al., 2007):&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Where shown, ∆’&lt;sup&gt;17&lt;/sup&gt;O of soil waters is reconstructed from the soil carbonates using the ∆’&lt;sup&gt;17&lt;/sup&gt;O of soil carbonate, an estimate of growth temperature from clumped isotopes (∆&lt;sub&gt;47&lt;/sub&gt;) and a combined mineral-water and acid fractionation factor of $\theta$&lt;sub&gt;a-c-w&lt;/sub&gt; = 0.5242 (Passey et al., 2014). The &lt;sup&gt;18&lt;/sup&gt;$\alpha$&lt;sub&gt;a-c-w&lt;/sub&gt; is calculated using the equation from Kim and O&amp;rsquo;Neil (1997) and multiplied by an acid fractionation factor of 1.0081 for acid digestion of calcite at 90 °C (Kim et al., 2007):&lt;/p&gt;
 
-&lt;p&gt;&lt;sup&gt;&lt;sup&gt;18&lt;/sup&gt;&amp;frasl;&lt;sub&gt;16&lt;/sub&gt;&lt;/sup&gt;$\alpha$&lt;sub&gt;c-w&lt;/sub&gt; = 1.0081*$e^{((18030/(T)-32.42)/1000)}$&lt;/p&gt;
+&lt;p&gt;&lt;sup&gt;&lt;sup&gt;18&lt;/sup&gt;&amp;frasl;&lt;sub&gt;16&lt;/sub&gt;&lt;/sup&gt;$\alpha$&lt;sub&gt;a-c-w&lt;/sub&gt; = 1.0081*$e^{((18030/(T)-32.42)/1000)}$&lt;/p&gt;
 
-&lt;p&gt;$\theta$&lt;sub&gt;a-c-w&lt;/sub&gt;  = ln(&lt;sup&gt;&lt;sup&gt;17&lt;/sup&gt;&amp;frasl;&lt;sub&gt;16&lt;/sub&gt;&lt;/sup&gt; $\alpha$&lt;sub&gt;c-w&lt;/sub&gt;)/ln(&lt;sup&gt;&lt;sup&gt;18&lt;/sup&gt;&amp;frasl;&lt;sub&gt;16&lt;/sub&gt;&lt;/sup&gt; $\alpha$&lt;sub&gt;c-w&lt;/sub&gt;)&lt;/p&gt;
+&lt;p&gt;$\theta$&lt;sub&gt;a-c-w&lt;/sub&gt;  = ln(&lt;sup&gt;&lt;sup&gt;17&lt;/sup&gt;&amp;frasl;&lt;sub&gt;16&lt;/sub&gt;&lt;/sup&gt; $\alpha$&lt;sub&gt;a-c-w&lt;/sub&gt;)/ln(&lt;sup&gt;&lt;sup&gt;18&lt;/sup&gt;&amp;frasl;&lt;sub&gt;16&lt;/sub&gt;&lt;/sup&gt; $\alpha$&lt;sub&gt;a-c-w&lt;/sub&gt;)&lt;/p&gt;
 
 &lt;p&gt;where T is carbonate growth temperature in Kelvin.&lt;/p&gt;&lt;/li&gt;
 
@@ -242,6 +246,8 @@ We&amp;rsquo;d like to thank Greg Hoke, Alexis Licht and Paolo Ballato for provi
 
 &lt;p&gt;Barnes C. J., and Allison G. B. (1983). The distribution of Deuterium and 18O in dry soils: 1. Theory. Journal of Hydrology, 60, 141–156.
 Fick, S. E., and Hijmans, R. J. (2017). WorldClim 2: new 1-km spatial resolution climate surfaces for global land areas. Int. J. of Climatol. 37, 4302–4315.&lt;/p&gt;
+
+&lt;p&gt;Beverly, E.J., Levin, N.E., Passey, B.H., Aron, P., and Page, M., 2019, Using triple oxygen and clumped isotopes in soils to understand the hydrosphere in Critical Zones, GSA Abstracts with Programs, v. 51, no. 5.&lt;/p&gt;
 
 &lt;p&gt;Gázquez, F., Evans, N. P., Herwartz, D., Bauska, T. K., Morellon, M., Surma, J., &amp;hellip; &amp;amp; Hodell, D. A. (2016, December). Triple Oxygen and Deuterium Isotopes in Gypsum Hydration Water for Quantitative Paleo-humidity Reconstructions. In AGU Fall Meeting Abstracts.&lt;/p&gt;
 
