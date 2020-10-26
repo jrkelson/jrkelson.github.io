@@ -3,14 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/goldschmidt_2020/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-10-26T12:30:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/post/</loc>
+    <lastmod>2020-10-26T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/egsrcarbs/</loc>
+    <lastmod>2020-10-26T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/covid_reopening/</loc>
+    <lastmod>2020-06-09T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/goldschmidt_2020/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -150,11 +165,6 @@
   
   <url>
     <loc>/post/womensdayhighlight/</loc>
-    <lastmod>2020-03-09T12:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2020-03-09T12:30:00+00:00</lastmod>
   </url>
   
