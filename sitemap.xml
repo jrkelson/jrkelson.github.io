@@ -3,8 +3,138 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/anderson_etal_2021/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ab-jost/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/cm-john/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/j-horita/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jr-kelson/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2020-10-26T12:30:00+00:00</lastmod>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kd-bergmann/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kw-huntington/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/m-bonifacie/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/m-daeron/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/nt-anderson/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/p-petschnig/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s-kele/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sm-bernasconi/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/t-kluge/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tj-mackey/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/clumped-isotopes/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/soil-carbonates/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,12 +166,6 @@
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -82,20 +206,8 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/kelson_etal_2020/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -111,32 +223,9 @@
   </url>
   
   <url>
-    <loc>/authors/jr-kelson/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/kw-huntington/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/lk-burgener/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -147,18 +236,6 @@
   
   <url>
     <loc>/authors/tm-gallagher/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/clumped-isotopes/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/soil-carbonates/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -219,12 +296,6 @@
   
   <url>
     <loc>/authors/c-saenger/</loc>
-    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/cm-john/</loc>
     <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
