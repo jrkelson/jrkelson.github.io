@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2021-08-26T12:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-08-26T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/sourcesurgeryaug2021/</loc>
+    <lastmod>2021-08-26T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -39,12 +55,6 @@
   
   <url>
     <loc>/authors/jr-kelson/</loc>
-    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -136,11 +146,6 @@
     <loc>/tags/soil-carbonates/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-10-26T12:30:00+00:00</lastmod>
   </url>
   
   <url>

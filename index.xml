@@ -6,10 +6,70 @@
     <description>Recent content on Julia Kelson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Aug 2021 12:30:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Surgery on the Mass Spec Source</title>
+      <link>/post/sourcesurgeryaug2021/</link>
+      <pubDate>Thu, 26 Aug 2021 12:30:00 +0000</pubDate>
+      
+      <guid>/post/sourcesurgeryaug2021/</guid>
+      <description>&lt;p&gt;Sometimes it takes a whole month just to troubleshoot the mass spectrometer. Due to a long string of hypothesized problems and solutions, a group of IPL-ers collectively took apart and rebuilt the source of the Ny Perspective multiple times this month. Needless to say, we did not generate any usable isotope data during that time. But we did learn about the proper type of scotch-brite to order, and have an improved understanding of the lens stack!&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/source/sourceitself.jpeg&#34; alt=&#34;The source of the Nu Perspective, outside of its protective home and in the wild of the laboratory benchtop&#34; width=&#34;500&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    The source of the Nu Perspective, outside of its protective home and in the wild of the laboratory benchtop
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/source/teamwork.jpeg&#34; alt=&#34;Natalie and Nick putting the source back together again. Background music: Rush.&#34; width=&#34;500&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Natalie and Nick putting the source back together again. Background music: Rush.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A unified clumped isotope thermometer calibration (0.5-1100 °C) using carbonate-based standardization</title>
