@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Julia Kelson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,36 @@
     <item>
       <title>clumped isotopes</title>
       <link>/tags/clumped-isotopes/</link>
-      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/clumped-isotopes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modeling</title>
+      <link>/tags/modeling/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paleosols</title>
+      <link>/tags/paleosols/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/paleosols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soil carbonate</title>
+      <link>/tags/soil-carbonate/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/soil-carbonate/</guid>
       <description></description>
     </item>
     
@@ -39,29 +66,11 @@
     </item>
     
     <item>
-      <title>modeling</title>
-      <link>/tags/modeling/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>project</title>
       <link>/tags/project/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>soil carbonate</title>
-      <link>/tags/soil-carbonate/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/soil-carbonate/</guid>
       <description></description>
     </item>
     
@@ -125,15 +134,6 @@
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/greenhouse-climates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>paleosols</title>
-      <link>/tags/paleosols/</link>
-      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/paleosols/</guid>
       <description></description>
     </item>
     

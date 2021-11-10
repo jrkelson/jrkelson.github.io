@@ -6,10 +6,78 @@
     <description>Recent content in clumped isotopes on Julia Kelson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/clumped-isotopes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CZ17O: Triple Oxygen Isotopes in Soil Carbonates</title>
+      <link>/project/cz17o/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cz17o/</guid>
+      <description>&lt;p&gt;Soils are key to understanding climate change in drylands given their importance in mediating the flux of both water and carbon. Pedogenic carbonates underly dryland soils and provide essential ground-level perspectives on climate change through geologic time and in the present. However, pedogenic carbonates currently fall short as tracers of water and carbon fluxes because we have an incomplete understanding of how they form.&lt;/p&gt;
+
+&lt;p&gt;To address the gap in our understanding of how soil carbonates form, my collaborator Naomi Levin and I are using triple oxygen isotope geochemistry (&lt;a href=&#34;https://jrkelson.github.io/primer/tripleoprimer/&#34; target=&#34;_blank&#34;&gt;primer here&lt;/a&gt;) to directly assess the importance of evaporation during soil carbonate formation. We&amp;rsquo;re considering how and where biotic processes (root water uptake/transpiration) vs abiotic processes (evaporation) dominate soil carbonate formation.&lt;/p&gt;
+
+&lt;p&gt;We are working across aridity gradients in North America, specifically targeting two sites that are a part of the Drylands Critical Zone Network - Jornada, New Mexico, and Reynolds Creek, Idaho. Our driest soils sites are in the Mojave National Preserve which has an incredible network of above- and below- ground monitoring sites set up by our collaborator Ron Amundson (UC Berkeley).&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/AImap_v3.png&#34; alt=&#34;Study sites take advantage of the natural gradient in aridity in the Western US.&#34; width=&#34;500&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Study sites take advantage of the natural gradient in aridity in the Western US.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;This is just the start of an NSF-funded two year project! So far, the project has been an awesome way to connect with collaborators who also love soils, isotopes, and drylands.&lt;/p&gt;
+
+&lt;p&gt;The preliminary data that provided the basis for our successful NSF proposal is described in my &lt;a href=&#34;(https://jrkelson.github.io/project/goldschmidt_2020/)&#34; target=&#34;_blank&#34;&gt;Goldschmidt presentation from 2020&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/Bk_horizon_Reynolds.png&#34; alt=&#34;A beautiful calcic horizon exposed in an open trench at the Lower Sheep site in Reynolds Creek, Idaho.&#34; width=&#34;500&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    A beautiful calcic horizon exposed in an open trench at the Lower Sheep site in Reynolds Creek, Idaho.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>A unified clumped isotope thermometer calibration (0.5-1100 °C) using carbonate-based standardization</title>
@@ -66,12 +134,12 @@
     </item>
     
     <item>
-      <title>Modern soil carbonates</title>
+      <title>Seasonality of soil carbonate formation</title>
       <link>/project/soil_carbonates/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/soil_carbonates/</guid>
-      <description>&lt;p&gt;I am researching how and when soil carbonates form. This research is necessary in order to use ancient soil carbonates for paleoclimate reconstructions. This research also helps understand how and where inorganic carbon is stored, which has implications for understanding the global carbon cycle.&lt;/p&gt;
+      <description>&lt;p&gt;When do soil carbonates form? We need to be able to answer this question in order to use ancient soil carbonates for paleoclimate reconstructions.&lt;/p&gt;
 
 &lt;p&gt;It is commonly assumed that soil carbonates form in the warm season. This assumption is reasonable because the warm season is when plants are growing (and evapo-transpirating), the sun is shining, and the soil is drying out. All of those physical processes should promote supersaturation with respect to calcite.&lt;/p&gt;
 
@@ -100,7 +168,7 @@
 &lt;/figure&gt;
 
 
-&lt;p&gt;But, soil carbonates can form in the winter, spring, summer, or fall as well. Environmental factors that control this timing include plant activity, persistent snowpack, soil texture, heavy summer rain, etc.&lt;/p&gt;
+&lt;p&gt;BUT soil carbonates can form in the winter, spring, summer, or fall. Environmental factors that control this timing include plant activity, persistent snowpack, soil texture, heavy summer rain, etc.&lt;/p&gt;
 
 
 
@@ -127,9 +195,9 @@
 &lt;/figure&gt;
 
 
-&lt;p&gt;I am using a couple of different approaches to determine when soil carbonates form and how to interpret their isotopic composition.&lt;/p&gt;
+&lt;p&gt;I am using multiple approaches to determine when soil carbonates form and how to interpret their isotopic composition.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.quascirev.2020.106259&#34; target=&#34;_blank&#34;&gt;This paper reviews clumped isotope data on soil carbonates. &lt;/a&gt; The take home: soil carbonate formation temperatures are all over the place! A warm-season bias is the most common, but formation temperatures deviate widely from mean annual air temperatures. We aren&amp;rsquo;t able to explain this variation in formation temperatures easily with environmental data and existing hypotheses.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.quascirev.2020.106259&#34; target=&#34;_blank&#34;&gt;First, this paper reviews clumped isotope data on soil carbonates. &lt;/a&gt; Clumped isotope-based temperatures can reveal apparent seasonal biases in modern soil carbonates. The take home: soil carbonate formation temperatures are all over the place! A warm-season bias is the most common, but formation temperatures deviate widely from mean annual air temperatures. We aren&amp;rsquo;t able to explain this variation in formation temperatures easily with environmental data and existing hypotheses.&lt;/p&gt;
 
 &lt;p&gt;Next, I am using a numerical model called HYDRUS-1D to predict the timing of carbonate formation. This work will allow us to delve into individual processes that are impossible to disentangle with empirical data.&lt;/p&gt;
 
@@ -257,7 +325,7 @@
     </item>
     
     <item>
-      <title>Developing the Methods of Clumped Isotope Geochemistry</title>
+      <title>Developing Methods of Clumped Isotope Geochemistry</title>
       <link>/project/clumpy_methods/</link>
       <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
       
