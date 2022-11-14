@@ -6,17 +6,116 @@
     <description>Recent content in Tags on Julia Kelson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>aridity</title>
+      <link>/tags/aridity/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/aridity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mammal teeth</title>
+      <link>/tags/mammal-teeth/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mammal-teeth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paleoclimate</title>
+      <link>/tags/paleoclimate/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/paleoclimate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>triple oxygen isotopes</title>
+      <link>/tags/triple-oxygen-isotopes/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/triple-oxygen-isotopes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mentoring</title>
+      <link>/tags/mentoring/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mentoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outreach</title>
+      <link>/tags/outreach/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/outreach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>/tags/teaching/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>clumped isotopes</title>
       <link>/tags/clumped-isotopes/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/clumped-isotopes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oyster shells</title>
+      <link>/tags/oyster-shells/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/oyster-shells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paleo-elevations</title>
+      <link>/tags/paleo-elevations/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/paleo-elevations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soil carbonates</title>
+      <link>/tags/soil-carbonates/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/soil-carbonates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>greenhouse climates</title>
+      <link>/tags/greenhouse-climates/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/greenhouse-climates/</guid>
       <description></description>
     </item>
     
@@ -48,11 +147,20 @@
     </item>
     
     <item>
-      <title>soil carbonates</title>
-      <link>/tags/soil-carbonates/</link>
+      <title>methods development</title>
+      <link>/tags/methods-development/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/methods-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>calibrations</title>
+      <link>/tags/calibrations/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/soil-carbonates/</guid>
+      <guid>/tags/calibrations/</guid>
       <description></description>
     </item>
     
@@ -71,15 +179,6 @@
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>triple oxygen isotopes</title>
-      <link>/tags/triple-oxygen-isotopes/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/triple-oxygen-isotopes/</guid>
       <description></description>
     </item>
     
@@ -107,51 +206,6 @@
       <pubDate>Sat, 15 Jun 2019 15:00:00 +0100</pubDate>
       
       <guid>/tags/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>calibrations</title>
-      <link>/tags/calibrations/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/calibrations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>methods development</title>
-      <link>/tags/methods-development/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/methods-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>greenhouse climates</title>
-      <link>/tags/greenhouse-climates/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/greenhouse-climates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mentoring</title>
-      <link>/tags/mentoring/</link>
-      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mentoring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>outreach</title>
-      <link>/tags/outreach/</link>
-      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/outreach/</guid>
       <description></description>
     </item>
     

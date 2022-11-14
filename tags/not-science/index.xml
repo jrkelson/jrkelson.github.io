@@ -198,6 +198,31 @@
 
 &lt;figure&gt;
 
+&lt;img src=&#34;/img/Birkie.jpeg&#34; alt=&#34;My first Birkie, and my second ski race ever!&#34; width=&#34;600&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    My first Birkie, and my second ski race ever!
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
 &lt;img src=&#34;/img/outdoors/Are_we_in_theBC_GlacierPeakW.JPG&#34; alt=&#34;Have we reached the backcountry yet? Glacier Peak Wilderness, WA. PC Todd Anderson&#34; width=&#34;600&#34; &gt;
 
 

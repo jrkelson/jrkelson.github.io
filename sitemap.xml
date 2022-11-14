@@ -3,18 +3,323 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/mojavejornadaoct/</loc>
-    <lastmod>2021-10-22T12:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-10-22T12:30:00+00:00</lastmod>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/authors/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/bh-passey/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ej-beverly/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/h-hu/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/j-luyt/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/j-sealy/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jh-miller/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jr-kelson/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ka-hoppe/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/l-arppe/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ne-levin/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s-lehmann/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/te-cerling/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/te-huth/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/lehmann_etal_2022/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/aridity/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mammal-teeth/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/paleoclimate/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/triple-oxygen-isotopes/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/outreach/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/outreach/teaching/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mentoring/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/outreach/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/teaching/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/an-curley/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/kelson_etal_2022/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/na-niemi/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sv-petersen/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/clumped-isotopes/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/oyster-shells/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/paleo-elevations/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/a-capirala/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/a-licht/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/a-schauer/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/day-wa-aung/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/licht_etal_2022/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/g.-dupont-nivet/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kw-huntington/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/s-bergel/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/zaw-win/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/soil-carbonates/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/jimenez-rodriguez_etal_2022/</loc>
+    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j-quade/</loc>
+    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/j-r-kelson/</loc>
+    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/m-dettinger/</loc>
+    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/s-jimenez-rodriguez/</loc>
+    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/greenhouse-climates/</loc>
+    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/goler-paper-out/</loc>
+    <lastmod>2022-01-24T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
+    <lastmod>2022-01-24T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mojavejornadaoct/</loc>
     <lastmod>2021-10-22T12:30:00+00:00</lastmod>
   </url>
   
@@ -25,18 +330,6 @@
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/clumped-isotopes/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -70,8 +363,379 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <loc>/authors/a.-b.-jost/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-c.-fetrow/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-davies/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-laskar/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-n.-meckler/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-neary/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-piasecki/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-schauer/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-tripati/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/b.-davidheiser-kroll/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/b.-elliott/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/b.-h.-passey/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/c.-chaduteau/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/c.-m.-john/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/d.-bajnai/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/d.-blamart/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/d.-calmels/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/d.-liang/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/d.-upadhyay/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/d.-yarian/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/e.-barkan/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/e.-beverly/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/e.-hyland/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/e.-pelletier/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/f.-dux/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/h.-p.-affek/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/i.-a.-muller/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/i.-j.-kocken/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/i.-winkelstern/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/bernasconi_etal_2021/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-eiler/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-fiebig/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-kelson/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-lucarelli/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/k.-d.-bergmann/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/k.-e.-snell/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/k.-w.-huntington/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/l.-burgener/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-bonifacie/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-clog/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-daeron/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-hermoso/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-ingalls/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-jaggi/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-ziegler/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/n.-anderson/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/n.-meinicke/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/n.-packard/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/n.-yoshida/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/n.-zhang/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/p.-k.-swart/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-e.-modestou/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-goldberg/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-katz/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-m.-bernasconi/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-murray/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-petersen/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/t.-j.-leutert/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/t.-j.-mackey/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/t.-kluge/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/t.-vennemann/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/x.-mangenot/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/methods-development/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,12 +746,6 @@
   
   <url>
     <loc>/authors/ab-jost/</loc>
-    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -105,19 +763,7 @@
   </url>
   
   <url>
-    <loc>/authors/jr-kelson/</loc>
-    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/kd-bergmann/</loc>
-    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/kw-huntington/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -147,17 +793,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/s-kele/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -182,7 +817,7 @@
   </url>
   
   <url>
-    <loc>/tags/soil-carbonates/</loc>
+    <loc>/tags/calibrations/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -226,12 +861,6 @@
   </url>
   
   <url>
-    <loc>/tags/triple-oxygen-isotopes/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/kelson_etal_2020/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
@@ -250,12 +879,6 @@
   
   <url>
     <loc>/authors/lk-burgener/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/sv-petersen/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -332,25 +955,7 @@
   </url>
   
   <url>
-    <loc>/authors/m.-daeron/</loc>
-    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/wf-defliese/</loc>
-    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/calibrations/</loc>
-    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/methods-development/</loc>
     <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -375,12 +980,6 @@
   <url>
     <loc>/publication/burgener_etal_2019/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/greenhouse-climates/</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -419,24 +1018,6 @@
   <url>
     <loc>/outreach/mentoring/</loc>
     <lastmod>2018-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/outreach/</loc>
-    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/mentoring/</loc>
-    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/outreach/</loc>
-    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
